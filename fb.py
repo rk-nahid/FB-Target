@@ -94,7 +94,7 @@ for password in wordlist:
                 os.system('rm Facebook-Log.txt || del Facebook-Log.txt')
                 exit()
             else:
-                print "[🤗] NOT HACK 🔥 "+str(password)
+                print "[🖕] NOT HACK = "+str(password)
         except KeyboardInterrupt:
             print '\n#############################################\n   Exiting..'
             dos.close()
@@ -102,7 +102,7 @@ for password in wordlist:
             exit()
 
 time.sleep(0.1)
-print 'Password is not Crack 👉 Try again 👈.'
+print 'Password is not Crack 😅 Try again 😅.'
 time.sleep(0.1)
 dos.close()
 os.system('rm Facebook-Log.txt || del Facebook-Log.txt')
